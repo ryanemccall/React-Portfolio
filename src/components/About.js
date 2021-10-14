@@ -6,12 +6,14 @@ export default function About() {
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-                        My name is Ryan Modrall
-                        <br className="hidden lg:inline-block" />
-                        I am a Full Stack Web Developer
+                        Hello I'm Ryan Modrall
                     </h1>
+                    <br className="hidden lg:inline-block" />
+                    <h2 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
+                        I am a Full Stack Web Developer
+                    </h2>
                     <p className="mb-8 leading-relaxed">
-                        Some stuff about me! 
+                        I recently graduated from Eleven Fifty Academy for Web Development on Oct. 12th, 2021. I will graduate spring '22 with an Informatics degree through Ivy Tech. I believe in work that makes a difference in people’s lives. Through my 8 years in the healthcare industry from claims to facility enrollment to provider enrollment, I have learned that work that changes lives comes in many forms. Web Development makes me feel like an artist using my skills to help users of my sites gain knowledge, have some fun, or whatever the task may be.
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -30,7 +32,7 @@ export default function About() {
                     <img
                     className="object-cover object-center rounded"
                     alt="hero"
-                    src="./coding.svg" //CHANGE THIS TO ME
+                    src="./headshot-removebg.png" //CHANGE THIS TO ME
           />
         </div>
             </div>

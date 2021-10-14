@@ -1,52 +1,51 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "ELLIEYAN",
+    subtitle: "PERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Ellieyan is a social platform for gamers. It is a full stack application utilizing Postgres, Express, React, Node and Typescript. Project is deployed with Heroku",
+    image: "./ellieyan.gif",
+    link: "https://ellieyan.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Listo",
+    subtitle: "PERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Built with a team of 3 during our Blue Badge Project, Listo is a grocery list app. It allows users to create accounts, create, edit, and delete grocery list items and ingredients for your cooking needs.",
+    image: "./listo.gif",
+    link: "https://listo-sre.herokuapp.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Hero or Villian?",
+    subtitle: "JavaScript, REST API, Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "This site is a fun way to determine if you are a Hero or a Villian... using a 3rd party API to gain information about characters simply enter a number of your chosing and see your fate",
+    image: "./superhero.gif",
+    link: "https://superhero-api-8c05d.web.app/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Random GIF Generator",
+    subtitle: "JavaScript, Firebase, GIPHY API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A fun site built with javascript, powered by GIPHY, and completely random. It features a search function and rating function then produces results for the user",
+    image: "./random.gif",
+    link: "https://giphy-api-65340.web.app/",
   },
 ];
 
 export const testimonials = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    quote: "Outside of coding I am a barbershoper, the singing kind. I have competited with over 12 quartets, winning 2 districts, and placing 2nd in the collegiate contest. Barbershop is a big part of life and without it I would not have met my incredible wife, Ellie!",
+    image: "./OMF2.jpg",
+    name: "Ohana Means Family",
+    company: "OMF Quartet",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "I love my wife, she is my best friend and biggest supporter. I am foodie, a traveler, and baseball enthusiast, Go Reds!",
+    image: "./wifey.jpg",
+    name: "Ellie McCall",
+    company: "Wife and Best Friend",
   },
 ];
 
@@ -55,7 +54,8 @@ export const skills = [
   "React",
   "Next.js",
   "Node",
-  "GraphQL",
+  "Express",
+  "Agile",
   "Tailwind CSS",
   "TypeScript",
   "PostgreSQL",
