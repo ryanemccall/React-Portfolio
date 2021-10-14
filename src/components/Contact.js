@@ -70,7 +70,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            I would love to speak with you about your website needs, but at least enjoy some barbershop music! That's me on lead (melody)!
+            I would love to speak with you about your website needs, or provide a resume and further information. Let's talk!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

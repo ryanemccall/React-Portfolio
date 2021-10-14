@@ -35,18 +35,23 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote: "Outside of coding I am a barbershoper, the singing kind. I have competited with over 12 quartets, winning 2 districts, and placing 2nd in the collegiate contest. Barbershop is a big part of life and without it I would not have met my incredible wife, Ellie!",
+    quote: "Outside of coding I am a barbershoper, the singing kind. I have competited with over 12 quartets, winning 2 districts, and placing 2nd in the collegiate contest. Barbershop is a big part of life and without it I would not have met my incredible wife, Ellie! Enjoy a video of our performance of Proud of Your Boy below or on YouTube.",
     image: "./OMF2.jpg",
     name: "Ohana Means Family",
     company: "OMF Quartet",
   },
   {
     quote:
-      "I love my wife, she is my best friend and biggest supporter. I am foodie, a traveler, and baseball enthusiast, Go Reds!",
+      "I love my wife, she is my best friend and biggest supporter. We love to travel, see Broadway Musicals together, see who can belt high notes the best, and cook meals for each other and friends.",
     image: "./wifey.jpg",
     name: "Ellie McCall",
     company: "Wife and Best Friend",
   },
+  {
+    quote: "I have an eclectic set of sports team I follow. It is a long story for each of them, but my favorite team has to be the Cincinnati Reds. My wife cheers for the Chicago Cubs...boo, but since we live closer to Cincinnati and the Cubs and Reds are in the same league we go see several games a year Reds vs Cubs. I played baseball for 15 years and love it to this day.",
+    image: "./redlegs.png",
+    name: "Mr. Redlegs"
+  }
 ];
 
 export const skills = [
