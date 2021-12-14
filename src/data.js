@@ -31,6 +31,14 @@ export const projects = [
     image: "./random.gif",
     link: "https://giphy-api-65340.web.app/",
   },
+  {
+    title: "Hangman Game",
+    subtitle: "React, React Hooks, Netlify",
+    description:
+      "A classic game built with React to focus and show use of states and React Hooks. See if you can win!",
+    image: "./hangman.PNG",
+    link: "https://ryanmccall-hangman-game.netlify.app/",
+  }
 ];
 
 export const testimonials = [
